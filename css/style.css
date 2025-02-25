@@ -25,5 +25,7 @@ p {
     padding: 0;
     line-height: 0.8;
 }
-
 /* All Global Css End */
+.btnButton .btn2{
+    background: #93F2FF;
+}
